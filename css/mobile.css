@@ -1,0 +1,53 @@
+/* Main Styling */
+h2 {
+	font-size: 1.5rem;
+}
+
+/* Utility Classes */
+.large {
+	font-size: 1rem;
+}
+
+.display-1 {
+	font-size: 3rem;
+}
+
+.display-2 {
+	font-size: 1.5rem;
+}
+
+.flex {
+	flex-direction: column;
+}
+
+/* Header */
+.showcase {
+	text-align: center;
+}
+
+.showcase,
+.showcase-header,
+.showcase-footer {
+	padding: 20px 0;
+}
+
+.showcase-header img {
+	width: 200px;
+}
+
+/* Use Cases */
+.use-cases {
+	padding: 20px 0;
+}
+.use-cases h2 {
+	padding-bottom: 10px;
+}
+
+/* About */
+.about {
+	padding: 20px 0;
+}
+
+.about h1 {
+	padding-bottom: 10px;
+}
